@@ -4,7 +4,7 @@ Control a LED matrix on BBC micro:bit boards with Web Bluetooth API.
 
 ## How to use
  - Access a webpage below.
-   - https://pokiiio.github.io/microbit-led/
+   - https://farooqhasny.github.io/microbit-led/
 
 
 ## Notice
